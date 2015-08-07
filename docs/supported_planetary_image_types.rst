@@ -33,7 +33,7 @@ Supported Planetary Image Types
 .. |good| image:: /squares/good.png
 	:width: 16px
 	:height: 16px
-.. |none| image:: /squares/none.png
+.. |none| image:: /squares/None.png
 	:width: 16px
 	:height: 16px
 .. |nodisp| image:: /squares/nodisp.png
